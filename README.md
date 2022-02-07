@@ -1,9 +1,19 @@
-# First_my_web
-学園祭実行委員の新入生歓迎ページです。
+# 学園祭実行委員のウェブページ
 
-jqueryとbootstrapを使いました。
+大学の学園祭実行委員会でWebページ制作を担当しているので、そのURLです。
 
-divとかガタガタです。
+## 新入生歓迎ページ（2022/02/07 完成）
 
+[こちら](http://www.sg.dendai.ac.jp/s1j-asahisai/index.html)
 
-http://www.sg.dendai.ac.jp/s1j-asahisai/index.html
+初めて制作したWebページです。
+
+ProgateでHTML&CSS、動画などでBootstrapとjQueryを学んだ後に制作しました。
+
+### 反省点
+
+レスポンシブの画面が少し違和感のあるものとなってしまいました。
+（例:各局の紹介部分の任意の詳細ボタンを押下して遷移する画面のタイトル部分など）
+
+## 第11回旭祭 ホームページ (制作中 2022/09頃完成予定)
+
